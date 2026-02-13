@@ -4,11 +4,11 @@
 **Eduardo1233-tech/Eduardo1233-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 👋 Olá, sou Eduardo Henrique. 
-- 📜 No momento curso desenvolvimento de sistemas no colégio Kennedy -
-- 💻 A matéria que mais tenho criado afinidade é programação back end por lidar com códigos. .
-- 📫 Nas minhas horas vagas gosto de Jogar e principalmente dormir.
--    
+- ✌️ Olá, sou Eduardo Henrique. 
+- 🙏 No momento curso desenvolvimento de sistemas no colégio Kennedy -
+- 🤖 A matéria que mais tenho criado afinidade é programação back end por lidar com códigos. .
+- 👽 Nas minhas horas vagas gosto de Jogar e principalmente dormir.
+- 🧠 Tendo aprendido mais sobre js, python e html.
 
 <div align= "center">
   
