@@ -45,5 +45,8 @@
 </div>
 
 ###
-oi
+👋​- Olá sou Eduardo
+🤖​- Estuo no colégio kennedy e estou cursando desenvolvimento de sistemas.
+
+
 
