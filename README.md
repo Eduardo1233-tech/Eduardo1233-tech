@@ -47,10 +47,15 @@
 ###
 <div align="center">
 👋​- Olá sou Eduardo Henrique
+  
 🤖​- Estudo no colégio kennedy e estou no terceiro ano cursando desenvolvimento de sistemas.
+
 ​🙊​- Meu hobby é jogar e dormir.
+
 ​​👀​- Minha matéria favorita tem sido matemática.
+
 ​​​🥸​- Venho aprendendo cada vez mais sobre linguagens de programação como PYTHOMN, JS , HTML e CSS.
+
 </div>
 
 
