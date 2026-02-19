@@ -40,13 +40,19 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurod🤖​esouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
 ###
-👋​- Olá sou Eduardo
-🤖​- Estuo no colégio kennedy e estou cursando desenvolvimento de sistemas.
+<div align="left">
+👋​- Olá sou Eduardo Henrique
+🤖​- Estudo no colégio kennedy e estou no terceiro ano cursando desenvolvimento de sistemas.
+​🙊​- Meu hobby é jogar e dormir.
+​​👀​- Minha matéria favorita tem sido matemática.
+​​​🥸​- Venho aprendendo cada vez mais sobre linguagens de programação como PYTHOMN, JS , HTML e CSS.
+</div>
+
 
 
 
