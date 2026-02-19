@@ -2,15 +2,6 @@
 <h1 align="center">Ola! Seja bem vindo ao meu GitHub</h1>
 
 ###
-
-
-
-
-
-
-
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
   <img width="12" />
@@ -54,4 +45,5 @@
 </div>
 
 ###
+oi
 
